@@ -1,0 +1,323 @@
+{
+	"tipo_campo": [
+		{
+			"id": 1,
+			"sigla": "CEs",
+			"descricao": "Campos Especias"
+		},
+		{
+			"id": 2,
+			"sigla": "CIs",
+			"descricao": "Cidades"
+		}
+	],
+	"cidades": [
+		{
+			"id": 1,
+			"descricao": "Santiago",
+			"preco": 65.0,
+			"upgrade_price": [13.0, 38.0, 63.0, 88.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 2,
+			"descricao": "Havana",
+			"preco": 150.0,
+			"upgrade_price": [30.0, 55.0, 80.0, 105.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 3,
+			"descricao": "Cairo",
+			"preco": 120.0,
+			"upgrade_price": [24.0, 49.0, 74.0, 99.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 4,
+			"descricao": "Lima",
+			"preco": 90.0,
+			"upgrade_price": [18.0, 43.0, 68.0, 93.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 5,
+			"descricao": "Buenos Aires",
+			"preco": 175.0,
+			"upgrade_price": [40.0, 60.0, 80.0, 120.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 6,
+			"descricao": "Brasília",
+			"preco": 400.0,
+			"upgrade_price": [50.0, 75.0, 100.0, 150.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 7,
+			"descricao": "Washington D.C.",
+			"preco": 375.0,
+			"upgrade_price": [50.0, 75.0, 120.0, 185.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 8,
+			"descricao": "Oslo",
+			"preco": 650.0,
+			"upgrade_price": [13.0, 38.0, 63.0, 88.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 9,
+			"descricao": "Lisboa",
+			"preco": 100.0,
+			"upgrade_price": [30.0, 50.0, 70.0, 90.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 10,
+			"descricao": "Atenas",
+			"preco": 200.0,
+			"upgrade_price": [40.0, 60.0, 80.0, 100.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 11,
+			"descricao": "Amsterdã",
+			"preco": 275.0,
+			"upgrade_price": [55.0, 85.0, 115.0, 175.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 12,
+			"descricao": "Viena",
+			"preco": 150.0,
+			"upgrade_price": [10.0, 30.0, 50.0, 70.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 13,
+			"descricao": "Estocolmo",
+			"preco": 120.0,
+			"upgrade_price": [24.0, 49.0, 74.0, 99.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 14,
+			"descricao": "Dublin",
+			"preco": 60.0,
+			"upgrade_price": [12.0, 37.0, 62.0, 87.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 15,
+			"descricao": "Roma",
+			"preco": 100.0,
+			"upgrade_price": [20.0, 45.0, 70.0, 95.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 16,
+			"descricao": "Madri",
+			"preco": 30.0,
+			"upgrade_price": [6.0, 31.0, 56.0, 81.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 17,
+			"descricao": "Paris",
+			"preco": 80.0,
+			"upgrade_price": [16.0, 41.0, 66.0, 91.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 18,
+			"descricao": "Moscou",
+			"preco": 200.0,
+			"upgrade_price": [40.0, 60.0, 80.0, 100.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 19,
+			"descricao": "Hanói",
+			"preco": 40.0,
+			"upgrade_price": [8.0, 33.0, 58.0, 83.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 20,
+			"descricao": "Bangkok",
+			"preco": 70.0,
+			"upgrade_price": [14.0, 39.0, 64.0, 89.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 21,
+			"descricao": "Pequim",
+			"preco": 80.0,
+			"upgrade_price": [20.0, 40.0, 60.0, 80.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 22,
+			"descricao": "Tokyo",
+			"preco": 315.0,
+			"upgrade_price": [75.0, 100.0, 125.0, 200.0],
+			"owner": "Bank",
+			"level": 0,
+			"tipo_campo_id": 2
+		}
+	],
+	"campos_especiais": [
+		{
+			"id": 1,
+			"descricao": "Praça",
+			"preco": 300.0,
+			"owner": "Bank",
+			"level": 0,
+			"especial": "praca",
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 2,
+			"descricao": "Décimo Terceiro",
+			"preco": 300.0,
+			"owner": "Bank",
+			"level": 0,
+			"especial": "decimo_terceiro",
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 3,
+			"descricao": "Naufrágio",
+			"preco": 275.0,
+			"owner": "Bank",
+			"level": 0,
+			"especial": "naufragio",
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 4,
+			"descricao": "Universidade",
+			"preco": 175.0,
+			"owner": "Bank",
+			"level": 0,
+			"especial": "universidade",
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 5,
+			"descricao": "Imposto",
+			"preco": 250.0,
+			"owner": "Bank",
+			"level": 0,
+			"especial": "imposto",
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 6,
+			"descricao": "Shopping",
+			"preco": 175.0,
+			"owner": "Bank",
+			"level": 0,
+			"especial": "shopping",
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 7,
+			"descricao": "Catedral",
+			"preco": 35.0,
+			"owner": "Bank",
+			"level": 0,
+			"especial": "catedral",
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 8,
+			"descricao": "Aeroporto",
+			"preco": 0.0,
+			"owner": "Bank",
+			"level": 0,
+			"especial": "aeroporto",
+			"tipo_campo_id": 2
+		},
+		{
+			"id": 9,
+			"descricao": "Niver",
+			"preco": 315.0,
+			"owner": "Bank",
+			"level": 0,
+			"especial": "aniversario",
+			"tipo_campo_id": 2
+		}
+	],
+	"players": [
+    	{
+    		"type": "player",
+    		"name": "red",
+    		"capital": 0,
+    		"city": 0
+    	},
+    	{
+    		"type": "ia",
+    		"name": "blue",
+    		"capital": 0,
+    		"city": 0
+    	},
+    	{
+    		"type": "ia",
+    		"name": "green",
+    		"capital": 0,
+    		"city": 0
+    	},
+    	{
+    		"type": "ia",
+    		"name": "yellow",
+    		"capital": 0,
+    		"city": 0
+    	}
+	]
+}
